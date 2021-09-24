@@ -1,0 +1,25 @@
+.save{
+    width:113px;
+    height: 16px;
+    position: absolute;
+    left:67px;
+    top:10px;
+
+    font-family:Avenir;
+    font-size:12px;
+
+}
+.circle {
+    width: 16px;
+    height: 16px;
+    border: 1px solid;
+    border-radius: 50%;
+    animation: rotate 2s infinite linear;
+    position:fixed;
+    left:43px;
+    top:18px;
+  }
+  @keyframes rotate {
+    0%    { transform: rotate(0deg);  }
+    100%  { transform: rotate(360deg);  }
+  }  

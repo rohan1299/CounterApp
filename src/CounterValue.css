@@ -1,0 +1,15 @@
+.lower{
+    font-family: Avenir;
+    font-size:12px;
+    font-weight: 500;
+    width: 100px;
+    height: 16px;
+    position: relative;
+    left:42px;
+    top:103px;
+}
+
+.lower1{
+    position: relative;
+    top: -10px;
+}
